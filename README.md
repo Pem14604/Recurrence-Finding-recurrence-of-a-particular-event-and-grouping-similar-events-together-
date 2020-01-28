@@ -1,7 +1,3 @@
-# Recurrence
-
-
-
 # Problem Statement
 
 
